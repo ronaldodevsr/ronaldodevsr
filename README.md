@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently on **open to work!!!**
 
-- 🌱 I’m currently learning **Python, Java, Django and Flask**
+- 🌱 I’m currently learning **Python, Java, Spring-Boot, Django and Flask**
 
 - 📫 How to reach me **ronaldodevsr@outlook.com**
 
